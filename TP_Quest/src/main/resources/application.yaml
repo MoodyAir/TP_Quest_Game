@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/quest_game_db
-    username: postgres
-    password: password
+    url: jdbc:postgresql://ec2-52-87-107-83.compute-1.amazonaws.com:5432/d2dophvvgpidb8
+    username: kqupzmxfxykerz
+    password: fe17c1bb38bba3d1cee5b576964ad773488f0349397619ba5f843300bcd79a68
     driver-class-name: org.postgresql.Driver
 
   flyway:
